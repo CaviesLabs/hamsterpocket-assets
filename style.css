@@ -1,4 +1,4 @@
-.on-going, .on-going * { box-sizing: border-box; }.on-going {background: #000000; min-height: 100vh; display: flex; justify-content: center; position: relative; overflow: hidden;}
+.on-going, .on-going * { box-sizing: border-box; }.on-going {background: #000000; min-height: 80vh; display: flex; justify-content: center; position: relative; overflow: hidden;}
  .frame-48098139 {display: flex; flex-direction: row; gap: 16px; align-items: center; justify-content: flex-start; position: absolute; top: 112px;}
  .arrow-chevron-big-left {flex-shrink: 0; position: relative; overflow: visible;}
  .pocket-detail {color: var(--primary-white, #ffffff); text-align: left; font: var(--heading-h-3, 600 32px/112% 'Poppins', sans-serif); position: relative; display: flex;align-items: center;justify-content: flex-start}
