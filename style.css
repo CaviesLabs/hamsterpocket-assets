@@ -22,7 +22,7 @@
  .button2 {color: var(--main-main, #735cf7); text-align: center; font: var(--body-medium-semi-bold, 600 14px/142% 'Poppins', sans-serif); position: relative;}
  .iconly-light-close {flex-shrink: 0; width: 24px; height: 24px; position: absolute; left: 130px;top: 8px;}
  .close-square {position: absolute; left: 6px;top: 6px; overflow: visible;}
- .frame-48098194 {display: flex; flex-direction: column; gap: 32px; align-items: center; justify-content: flex-start; position: absolute; top: 230px; padding-bottom: 48px; padding-top: 48px;}
+ .frame-48098194 {display: flex; flex-direction: column; gap: 32px; align-items: center; justify-content: flex-start; padding-bottom: 48px; padding-top: 48px;}
  .pocket-pecent {background: var(--card-ln, linear-gradient(180deg, rgba(115, 92, 247, 1.00) 0%,rgba(72, 46, 222, 1.00) 100%)); border-radius: 12px; padding: 16px 16px 16px 16px; display: flex; flex-direction: row; gap: 16px; align-items: flex-start; justify-content: flex-start; flex-shrink: 0; width: 776px; position: relative; overflow: hidden;}
  .frame-48098246 {display: flex; flex-direction: column; gap: 16px; align-items: flex-start; justify-content: flex-start; flex-shrink: 0; position: relative;}
  .frame-48098141 {display: flex; flex-direction: row; gap: 8px; align-items: center; justify-content: flex-start; flex-shrink: 0; position: relative;}
